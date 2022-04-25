@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const { validId, validObjectBody } = require('../middlewares/paleta.middleware');
 
 const paletasController = require('../controllers/paleta.controller');
 

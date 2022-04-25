@@ -1,0 +1,58 @@
+[
+    {
+      
+      "sabor": "Açai com Leite Condensado",
+      "descricao": "Açai com Leite Condensado",
+      "foto": "./assets/images/acai-com-leite-condensado.png",
+      "preco": 10.0
+    },
+    {
+      
+      "sabor": "Banana com Nutella",
+      "descricao": "Banana com Nutella",
+      "foto": "./assets/images/banana-com-nutella.png",
+      "preco": 10.0
+    },
+    {
+      
+      "sabor": "Chocolate Belga",
+      "descricao": "Chocolate Belga",
+      "foto": "./assets/images/chocolate-belga.png",
+      "preco": 9.0
+    },
+    {
+      
+      "sabor": "Limão",
+      "descricao": "Limão",
+      "foto": "./assets/images/limao.png",
+      "preco": 6.0
+    },
+    {
+      
+      "sabor": "Maracuja",
+      "descricao": "Maracuja",
+      "foto": "./assets/images/maracuja.png",
+      "preco": 6.0
+    },
+    {
+      
+      "sabor": "Milho Verde",
+      "descricao": "Milho Verde",
+      "foto": "./assets/images/milho-verde.png",
+      "preco": 4.5
+    },
+    {
+      
+      "sabor": "Chocolate Belga com Brigadeiro",
+      "descricao": "Chocolate Belga com Brigadeiro",
+      "foto": "./assets/images/chocolate-belga-com-brigadeiro.png",
+      "preco": 9.5
+    },
+    {
+      
+      "sabor": "Morango",
+      "descricao": "Morango",
+      "foto": "./assets/images/morango.png",
+      "preco": 7.0
+    }
+  ]
